@@ -1,4 +1,4 @@
-# 🛍️ Clone de Boutique en Ligne Svapo
+# 🛍️ Clone de Boutique en Ligne développement web
 
 Bienvenue sur mon projet personnel de développement web !
 
